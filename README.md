@@ -5,4 +5,6 @@ Diálogo de confirmación con Angular Material y componente aislado
 
 **Tutorial**: https://parzibyte.me/blog/2019/11/08/dialogo-confirmacion-angular-material/
 
+**Demo**: https://confirm-dialog-angular-material.stackblitz.io/
+
 **Más sobre Angular**: https://parzibyte.me/blog/category/framework-angular/
